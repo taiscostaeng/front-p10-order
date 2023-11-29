@@ -1,0 +1,52 @@
+body {
+    background-image: url('img/pizza.jpg');
+}
+
+div {
+    border: #595357 2px solid;
+    margin: 50px 450px;
+    position: relative;
+    padding: 20px;
+    background-color: #595357;
+}
+
+h1 {
+    color: yellow;
+    text-align: center;
+    background-color: black;
+    border: 10px solid black;
+    margin: 50px 450px;
+}
+
+p {
+    text-align: center;
+    color: black;
+    font-size: 18px;
+}
+
+.destaque {
+    color: yellow;
+    background-color: black;
+    border: 10px solid black;
+}
+
+.circulo {
+    border-radius: 50%;
+    width: 35px;
+    height: 25px;
+    padding-top: 10px;
+    position: absolute;
+    left: -10px;
+    top: -40px;
+}
+
+.retangulo {
+    width: 200px;
+    position: absolute;
+    right: 10px;
+    top: 120px;
+}
+
+.descricao {
+    text-align: left;
+}
